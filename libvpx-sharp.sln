@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibVpxSharp", "LibVpxSharp\LibVpxSharp.csproj", "{BDA58919-3AF8-4E9F-BE7C-910C2EE150B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibVpxSharp.Tests", "LibVpxSharp.Tests\LibVpxSharp.Tests.csproj", "{A8991833-7F49-462D-858D-F10ABBD118F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibVpxSharp.Samples", "LibVpxSharp.Samples\LibVpxSharp.Samples.csproj", "{91BD5D37-153E-495D-AA84-8DB2D479B431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA58919-3AF8-4E9F-BE7C-910C2EE150B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA58919-3AF8-4E9F-BE7C-910C2EE150B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA58919-3AF8-4E9F-BE7C-910C2EE150B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA58919-3AF8-4E9F-BE7C-910C2EE150B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8991833-7F49-462D-858D-F10ABBD118F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8991833-7F49-462D-858D-F10ABBD118F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8991833-7F49-462D-858D-F10ABBD118F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8991833-7F49-462D-858D-F10ABBD118F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BD5D37-153E-495D-AA84-8DB2D479B431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BD5D37-153E-495D-AA84-8DB2D479B431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BD5D37-153E-495D-AA84-8DB2D479B431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BD5D37-153E-495D-AA84-8DB2D479B431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
